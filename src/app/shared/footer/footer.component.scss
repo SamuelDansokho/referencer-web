@@ -1,0 +1,17 @@
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #282f3f;
+  color: #f7f0dd;
+
+  ul {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: #f7f0dd;
+  }
+}
